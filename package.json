@@ -50,7 +50,7 @@
     "test": "repo-tools test run --cmd npm -- run cover"
   },
   "dependencies": {
-    "google-gax": "^0.14.2",
+    "google-gax": "github:googleapis/gax-nodejs#5140a57a2aa08a0bbc9eea0d11191e41eb6246b9",
     "lodash.merge": "^4.6.0",
     "protobufjs": "^6.8.0"
   },
